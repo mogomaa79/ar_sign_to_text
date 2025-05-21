@@ -5,7 +5,7 @@ import cv2, os, imageio
 import warnings
 warnings.filterwarnings("ignore")
 
-model = tf.keras.models.load_model(os.path.join("C:", os.sep, "Users", "zi3dt", "pbl", "app", "conv1_lstm.keras"))
+model = tf.keras.models.load_model(os.path.join("C:", os.sep, "Users", "zi3dt", "sign_reader", "app", "conv1_lstm.keras"))
 
 
 def predict(x):
@@ -39,7 +39,7 @@ def load_video(path):
     return frames
 
 def main():
-    file = os.path.join("C:", os.sep, "Users", "zi3dt", "pbl", "media", "uploaded_videos", "video.mp4") 
+    file = os.path.join("C:", os.sep, "Users", "zi3dt", "sign_reader", "media", "uploaded_videos", "video.mp4") 
     # x = DataLoader.DataLoader.load_inference_data(file)
     x = DataLoader.DataLoader.load_inference_data(file)
     print(x.shape)

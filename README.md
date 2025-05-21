@@ -6,12 +6,6 @@
 
 This project is a web application designed to translate Arabic sign language into text in real-time. It aims to bridge the communication gap between deaf and non-deaf individuals, promoting social inclusion and accessibility.
 
-## Team and Supervision
-
-- **Team Members:** 
-- **Supervisor:** Dr. Ahmed Fares
-- **Course:** Project-Based Learning (PBL)
-
 ## Problem Statement
 
 Deaf individuals face numerous challenges, including communication barriers, limited access to education and employment, social exclusion, and difficulty accessing public services. Our project addresses these issues by providing a tool that translates Arabic sign language into text, facilitating better communication and inclusion.
@@ -82,30 +76,3 @@ The web application captures real-time video and translates Arabic sign language
 ## Conclusion
 
 This project demonstrates the potential of machine learning and computer vision to create impactful solutions for real-world problems. By translating Arabic sign language into text, we aim to improve communication and inclusion for deaf individuals, making a positive difference in their lives.
-
-## Contact
-
-For more information or to contribute to this project, please contact:
-
-- []
-- []
-- []
-
----
-
-Thank you for your interest in our project. We look forward to your feedback and support!
-
----
-
-### Keywords
-
-- Sign Language
-- Machine Learning
-- Accessibility
-- Inclusion
-- Arabic Sign Language
-- Real-time Translation
-- Computer Vision
-- Web Application
-
----
